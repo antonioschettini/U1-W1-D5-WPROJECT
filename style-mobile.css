@@ -63,6 +63,7 @@ button {
   font-style: normal;
   margin-top: 1em;
   margin-bottom: 1em;
+  border: none;
 }
 .foto-laptop {
   width: 250px;
